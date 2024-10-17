@@ -1,7 +1,7 @@
 name: simple_page_transition
 description: "Page transitions in an easy and quick-to-configure way."
 version: 0.0.1
-homepage:
+homepage: https://github.com/leonardopinho/flutter_simple_page_transition
 
 environment:
   sdk: ^3.5.3
